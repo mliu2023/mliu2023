@@ -2,7 +2,7 @@
 
 Brown undergrad interested in accelerating scientific discovery with applied math and AI/ML.
 
-- 🔭 I’m currently working on computational chemistry and biology.
+- 🔭 I’m currently working on computational chemistry and AI safety.
 - 🌱 I’m currently learning topology and real analysis.
 - 👯 I’m looking to collaborate on any AI project.
 - 🤔 I’m looking for a mentor to help me figure out what kind of career I would like.
